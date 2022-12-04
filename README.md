@@ -1,8 +1,11 @@
- ![sim756 Kriya](https://raw.githubusercontent.com/sim756/sim756/main/sim756_kriya.jpg)
- 
-dream(); learn(); create(); excite(); //,,....@sim756;
+![sim756 Kriya](https://raw.githubusercontent.com/sim756/sim756/main/sim756_kriya.jpg)
 
 <!---
+
+## sim756
+dream(); learn(); create(); excite(); //,,....sim756;
+
+
 - 👋 Hi, I’m @sim756
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
