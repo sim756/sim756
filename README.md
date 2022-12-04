@@ -1,4 +1,4 @@
- ![sim756 Kriya](https://raw.githubusercontent.com/sim756/sim756/main/sim756_kriya.jpg)) 
+ ![sim756 Kriya](https://raw.githubusercontent.com/sim756/sim756/main/sim756_kriya.jpg)
  
 dream(); learn(); create(); excite(); //,,....@sim756;
 
